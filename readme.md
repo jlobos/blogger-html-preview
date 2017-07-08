@@ -63,7 +63,7 @@ In the request of preview is need the token of authentication from theme setting
 
 Type: `string`
 
-The `xml` theme.
+The xml theme.
 
 ##### withWidgets
 

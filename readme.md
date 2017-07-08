@@ -7,8 +7,8 @@
 
 ## Install
 
-```
-$ npm install --save blogger-html-preview
+```bash
+npm install --save blogger-html-preview
 ```
 
 ## Usage

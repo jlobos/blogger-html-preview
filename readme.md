@@ -6,6 +6,7 @@
 > Get output code preview of [Google Blogger](https://www.blogger.com)
 
 ## Install
+
 ```
 $ npm install --save blogger-html-preview
 ```

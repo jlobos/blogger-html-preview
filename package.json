@@ -28,7 +28,7 @@
     "xml"
   ],
   "dependencies": {
-    "isomorphic-fetch": "^2.2.1",
+    "node-fetch": "^1.7.1",
     "qs": "^6.5.0"
   },
   "devDependencies": {

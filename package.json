@@ -1,6 +1,6 @@
 {
   "name": "blogger-html-preview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get output code preview of Google Blogger",
   "license": "MIT",
   "repository": "jlobos/blogger-html-preview",

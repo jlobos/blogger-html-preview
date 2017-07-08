@@ -1,0 +1,37 @@
+{
+  "name": "blogger-html-preview",
+  "version": "0.0.0",
+  "description": "Get output code preview of Google Blogger",
+  "license": "MIT",
+  "repository": "jlobos/blogger-html-preview",
+  "author": "Jesus Lobos <jlobitu@gmail.com> (https://jlobos.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js"
+  ],
+  "xo": {
+    "semicolon": false,
+    "space": true
+  },
+  "keywords": [
+    "blogger",
+    "google",
+    "preview",
+    "theme",
+    "template",
+    "xml"
+  ],
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "qs": "^6.5.0"
+  },
+  "devDependencies": {
+    "xo": "^0.18.2"
+  }
+}

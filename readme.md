@@ -74,6 +74,8 @@ Default: `true`
 ## Related
 
 - [gulp-blogger-html-preview](https://github.com/jlobos/gulp-blogger-html-preview) - gulp plugin
+- [blogger-save-theme](https://github.com/jlobos/blogger-save-theme) - save Blogger theme from Node.js 
+- [gulp-blogger-save-theme](https://github.com/jlobos/gulp-blogger-save-theme) - save Blogger theme gulp plugin
 
 ## License
 
